@@ -1,0 +1,3 @@
+[submodule "sites/all/modules/druplippy"]
+	path = sites/all/modules/druplippy
+	url = lynn@git.drupal.org:sandbox/lynn/1789132.git
